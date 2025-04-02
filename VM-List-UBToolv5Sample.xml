@@ -1,0 +1,98 @@
+<All>
+<S0>HDC-VDILAB-PRI</S0>
+<HDC-VDILAB-PRI>
+    <VMList>
+		<Week>
+			<VM>
+				<Name>MYLWP-AD-01</Name>
+				<Name>MYLWP-AD-02</Name>
+				<Name>Virtuadesk-AD01</Name>
+				<Name>Router - LAB OLD</Name>
+				<Name>NetScaler Virtual Appliance</Name>
+			</VM>
+		</Week>
+		<Month>
+			<VM>
+				<Name>Cisco IMC Supervisor</Name>
+				<Name>installer new</Name>
+				<Name>InstallerVM_NEW</Name>
+			</VM>
+		</Month>
+    </VMList>
+    <Exportpath>
+		<Monthly>
+			<pathname>F:\Monthly\</pathname>
+		</Monthly>
+		<Weekly>
+			<pathname>F:\Weekly\</pathname>
+		</Weekly>
+	</Exportpath>
+</HDC-VDILAB-PRI>
+<S0>R11-HPE1-117</S0>
+<R11-HPE1-117>
+    <VMList>
+		<Week>
+			<VM>
+				<Name>VDLAB-DEVOPS-01</Name>
+				<Name>VMWVCENTER-1</Name>
+				<Name>VDLAB-XDController02</Name>
+				<Name>VDLAB-SCVMM02</Name>
+				<Name>VDLAB-SQL02</Name>
+			</VM>
+		</Week>
+		<Month>
+			<VM>
+				<Name>VDLAB-SCOM-06</Name>
+				<Name>VDLAB-CTXStorefront01</Name>
+				<Name>VDLAB-HZCOMPSER-01</Name>
+				<Name>VDLAB-HZCONSERVER-01</Name>
+				<Name>VDLAB-POWERBI-01</Name>
+				<Name>VDLAB-WINADMINCENTER</Name>
+				<Name>VIRTUADESK-BOT</Name>
+			</VM>
+		</Month>
+    </VMList>
+    <Exportpath>
+		<Monthly>
+			<pathname>D:\Monthly\Management_Servers(HA)\</pathname>
+		</Monthly>
+		<Weekly>
+			<pathname>D:\Weekly\Managment-Servers(HA)\</pathname>
+		</Weekly>
+	</Exportpath>
+</R11-HPE1-117>
+<S0>R11-HPE1-118</S0>
+<R11-HPE1-118>
+    <VMList>
+       <Week>
+			<VM>
+				<Name>VDLAB-JIRA</Name>
+				<Name>VDLAB-XDController01</Name>
+				<Vame>VDLAB-SCVMM01</Name>
+				<Name>VDLAB-SQL01</Name>
+				<Name>VDLAB-SQL02</Name>
+			</VM>
+		</Week>
+		<Month>
+			<VM>
+				<Name>VDLAB-SCCM01</Name>
+				<Name>VDLAB-HP Oneview</Name>
+				<Name>VDLAB-DEMSRV</Name>
+				<Name>VDLAB-CTXStorefront02</Name>
+				<Name>VDLAB-CTXCNTRAPPL-01</Name>
+				<Name>VDLAB-CTXADM-01</Name>
+				<Name>VDLAB-APPVOL</Name>
+				<Name>VDLAB-APPVMGMT</Name>
+			</VM>
+		</Month>
+    </VMList>
+    <Exportpath>
+		<Monthly>
+			<pathname>D:\Monthly\Management_Servers(HA)\</pathname>
+		</Monthly>
+		<Weekly>
+			<pathname>D:\Weekly\Managment-Servers(HA)\</pathname>
+		</Weekly>
+	</Exportpath>
+</R11-HPE1-118>
+</All>

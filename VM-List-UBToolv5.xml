@@ -1,0 +1,147 @@
+<All>
+<S0>HDC-VDILAB-PRI</S0>
+<HDC-VDILAB-PRI>
+    <VMList>
+		<Week>
+			<VM>
+				<Name>Router - LAB OLD</Name>
+			</VM>
+			<VM>
+				<Name>NetScaler Virtual Appliance</Name>
+			</VM>
+		</Week>
+		<Month>
+			<VM>
+				<Name>Cisco IMC Supervisor</Name>
+			</VM>
+			<VM>
+				<Name>installer new</Name>
+			</VM>
+			<VM>
+				<Name>InstallerVM_NEW</Name>
+			</VM>
+		</Month>
+    </VMList>
+    <Exportpath>
+		<Monthly>
+			<pathname>F:\Monthly\</pathname>
+		</Monthly>
+		<Weekly>
+			<pathname>F:\Weekly\</pathname>
+		</Weekly>
+	</Exportpath>
+</HDC-VDILAB-PRI>
+</All>
+<All1>
+<S0>R11-HPE1-117</S0>
+<R11-HPE1-117>
+    <VMList>
+		<Week>
+			<VM>
+				<Name>VDLAB-DEVOPS-01</Name>
+			</VM>
+			<VM>
+				<Name>VMWVCENTER-1</Name>
+			</VM>
+			<VM>
+				<Name>VDLAB-XDController02</Name>
+			</VM>
+			<VM>
+				<Name>VDLAB-SCVMM02</Name>
+			</VM>
+			<VM>
+				<Name>VDLAB-SQL02</Name>
+			</VM>
+		</Week>
+		<Month>
+			<VM>
+				<Name>VDLAB-SCOM-06</Name>
+			</VM>
+			<VM>
+				<Name>VDLAB-CTXStorefront01</Name>
+			</VM>
+			<VM>
+				<Name>VDLAB-HZCOMPSER-01</Name>
+			</VM>
+			<VM>
+				<Name>VDLAB-HZCONSERVER-01</Name>
+			</VM>
+			<VM>
+				<Name>VDLAB-POWERBI-01</Name>
+			</VM>
+			<VM>
+				<Name>VDLAB-WINADMINCENTER</Name>
+			</VM>
+			<VM>
+			<Name>VIRTUADESK-BOT</Name>
+			</VM>
+		</Month>
+    </VMList>
+    <Exportpath>
+		<Monthly>
+			<pathname>D:\Monthly\Management_Servers(HA)\</pathname>
+		</Monthly>
+		<Weekly>
+			<pathname>D:\Weekly\Managment-Servers(HA)\</pathname>
+		</Weekly>
+	</Exportpath>
+</R11-HPE1-117>
+</All1>
+<All2>
+<S0>R11-HPE1-118</S0>
+<R11-HPE1-118>
+    <VMList>
+       <Week>
+			<VM>
+				<Name>VDLAB-JIRA</Name>
+			</VM>
+			<VM>
+				<Name>VDLAB-XDController01</Name>
+			</VM>
+			<VM>
+				<Name>VDLAB-SCVMM01</Name>
+			</VM>
+			<VM>
+				<Name>VDLAB-SQL01</Name>
+			</VM>
+			<VM>
+				<Name>VDLAB-SQL02</Name>
+			</VM>
+		</Week>
+		<Month>
+			<VM>
+				<Name>VDLAB-SCCM01</Name>
+			</VM>
+			<VM>
+				<Name>VDLAB-HP Oneview</Name>
+			</VM>
+			<VM>
+				<Name>VDLAB-DEMSRV</Name>
+			</VM>
+			<VM>
+				<Name>VDLAB-CTXStorefront02</Name>
+			</VM>
+			<VM>
+				<Name>VDLAB-CTXCNTRAPPL-01</Name>
+			</VM>
+			<VM>
+				<Name>VDLAB-CTXADM-01</Name>
+			</VM>
+			<VM>
+			<Name>VDLAB-APPVOL</Name>
+			</VM>
+			<VM>
+			<Name>VDLAB-APPVMGMT</Name>
+			</VM>
+		</Month>
+    </VMList>
+    <Exportpath>
+		<Monthly>
+			<pathname>D:\Monthly\Management_Servers(HA)\</pathname>
+		</Monthly>
+		<Weekly>
+			<pathname>D:\Weekly\Managment-Servers(HA)\</pathname>
+		</Weekly>
+	</Exportpath>
+</R11-HPE1-118>
+</All2>
